@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @proton029
-- 👀 I’m interested in topics like Computer science, programming, Electronics, Data Science and ML, Drawing, Soccer, reading.
+- 👀 I’m interested in topics like Computer science, Mathematics, Electronics, Data Science and ML, Drawing, Soccer, reading.
 - 🌱 I’m currently learning so many things
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach out to me proton029@gmail.com
